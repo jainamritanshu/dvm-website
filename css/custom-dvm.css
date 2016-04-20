@@ -45,32 +45,32 @@
 
 
 
-.circle-team-img.businessStrategy{
+.circle-team-img.t1{
 	background-image: url("../images/team/t1.jpg");
 	background-size: 100%;
     background-repeat: no-repeat;
 }
-.circle-team-img.businessOperation{
+.circle-team-img.t2{
 	background-image: url("../images/team/t2.jpg");
 	background-size: 100%;
     background-repeat: no-repeat;
 }
-.circle-team-img.technical{
+.circle-team-img.t3{
 	background-image: url("../images/team/t3.jpg");
 	background-size: 100%;
     background-repeat: no-repeat;
 }
-.circle-team-img.businessDevelopment{
+.circle-team-img.t4{
 	background-image: url("../images/team/t4.jpg");
 	background-size: 100%;
     background-repeat: no-repeat;
 }
-.circle-team-img.businessPromotion{
+.circle-team-img.t5{
 	background-image: url("../images/team/t5.jpg");
 	background-size: 100%;
     background-repeat: no-repeat;
 }
-.circle-team-img.businessAnalysis{
+.circle-team-img.t6{
 	background-image: url("../images/team/t6.jpg");
 	background-size: 100%;
     background-repeat: no-repeat;
@@ -79,3 +79,61 @@
 #blog .blog-post.blog-media .entry-thumbnail{
 	margin:0px;
 }
+.circle-team-img.tuli{
+	background-image: url("../images/team/a1.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.circle-team-img.a2{
+	background-image: url("../images/team/a2.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.circle-team-img.a3{
+	background-image: url("../images/team/a3.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.circle-team-img.a4{
+	background-image: url("../images/team/a4.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.circle-team-img.a5{
+	background-image: url("../images/team/a5.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.circle-team-img.a6{
+	background-image: url("../images/team/a6.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.circle-team-img.a7{
+	background-image: url("../images/team/a7.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.circle-team-img.a8{
+	background-image: url("../images/team/a8.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.circle-team-img.a9{
+	background-image: url("../images/team/a9.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
